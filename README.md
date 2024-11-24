@@ -10,7 +10,7 @@ Social connectedness: measure of belonging to a social group or network.
 
 Acculturative stress: stress associated with learning about and integrating into a new culture.
 
-# Task will be to do the following exploratory analysis:
+# Task:
 
 1. Count the number of all records, and all records per student type
 
