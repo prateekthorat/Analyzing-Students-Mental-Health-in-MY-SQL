@@ -24,12 +24,12 @@ Acculturative stress: stress associated with learning about and integrating into
 
 # Key Finding:
 
-# Depression Trends: Identified a higher risk of depression in the first year, gradually decreasing over the subsequent 10 years.
+  Depression Trends: Identified a higher risk of depression in the first year, gradually decreasing over the subsequent 10 years.
 
-# Stress Predictors: Explored the impact of acculturative stress and social connectedness on depression.
+  Stress Predictors: Explored the impact of acculturative stress and social connectedness on depression.
 
 # Project Highlights
 
-# SQL Exploration: Utilized SQL queries for in-depth exploration of the dataset.
+  SQL Exploration: Utilized SQL queries for in-depth exploration of the dataset.
 
-# Comprehensive Analysis: Explored various factors influencing mental health, including age and stay duration.
+  Comprehensive Analysis: Explored various factors influencing mental health, including age and stay duration.
