@@ -1,4 +1,5 @@
 Analyzing_Student_Mental_Health_in_MYSQL
+
 THE DATA
 
 This survey was conducted in 2018 at an international Japanese university and the associated study was published in 2019. It was approved by several ethical and regulatory boards.
